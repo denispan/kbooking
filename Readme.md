@@ -1,6 +1,7 @@
-# [Проект «Kbooking»](https://denispan.github.io/kbooking/)
+# [Проект «Kbooking»](https://kbooking.vercel.app/)
 
-[denispan.github.io/kbooking](https://denispan.github.io/kbooking/) </br></br>
+[https://kbooking.vercel.app/](https://kbooking.vercel.app/) </br></br>
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/072487b6-931f-496d-a438-22901ae422d0" /></br></br>
 
 <strong>Kbooking - сервис размещения объявлений о сдаче в аренду недвижимости в центре Токио.</strong></br>
 Реализована подгрузка объявлений с сервера, интерактивное отображение объектов по координатам на карте с использованием Leaflet.js, продвинутая фильтрация объявлений по различным параметрам (тип жилья, цена, количество комнат и др.). </br>
@@ -14,10 +15,10 @@
 - NoUISlider для слайдера цен
 - Pristine.js для валидации форм
 
-### [Главная страница](https://denispan.github.io/kbooking/)
+### [Главная страница](https://kbooking.vercel.app/)
+| Отображение оферов | Создание собственного офера |
 |:---------------:|:--------------:|
-| <img width="300" alt="screen" src="https://github.com/user-attachments/assets/d8eb2bbf-48e0-480c-9fb7-6ff8bc768e46" /> | <img width="300" alt="screen" src="https://github.com/user-attachments/assets/77327186-2d61-4dd9-a4be-d010c350a750" /> |
-
+| <img width="300" alt="screen" src="https://github.com/user-attachments/assets/282e13a0-9218-493b-ad0a-35f0ac917e92" /> | <img width="300" alt="screen" src="https://github.com/user-attachments/assets/1fa3124d-b5b4-4ef1-94b0-a469ef373f20" /> |
 
 ### Функциональность
 - Интерактивная карта с маркерами объектов
